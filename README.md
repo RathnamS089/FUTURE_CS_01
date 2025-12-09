@@ -2,7 +2,7 @@
 
 This repository contains my project submissions for the **Cybersecurity Internship** at Future Interns.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Task | Project Name | Description | Status |
 | :--- | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ This repository contains my project submissions for the **Cybersecurity Internsh
 * **Docker** (Hosting the local Juice Shop instance)
 * **Chromium** (Manual Testing)
 
-### 🔍 Key Findings
+### Key Findings
 I successfully identified and documented the following vulnerabilities:
 1.  **SQL Injection (SQLi):** Bypassed authentication to log in as Administrator.
     * *Payload:* `' OR 1=1 --`
