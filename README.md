@@ -1,4 +1,4 @@
-# Future Interns - Cybersecurity Internship 🛡️
+# Future Interns - Cybersecurity Internship 
 
 This repository contains my project submissions for the **Cybersecurity Internship** at Future Interns.
 
@@ -6,17 +6,17 @@ This repository contains my project submissions for the **Cybersecurity Internsh
 
 | Task | Project Name | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Task 1** | Web Application Security Testing | Vulnerability assessment of OWASP Juice Shop (SQLi, XSS, Sensitive Data Exposure). | ✅ Completed |
+| **Task 1** | Web Application Security Testing | Vulnerability assessment of OWASP Juice Shop (SQLi, XSS, Sensitive Data Exposure). | Completed |
 | **Task 2** | *Coming Soon* | *Pending* | ⏳ |
 | **Task 3** | *Coming Soon* | *Pending* | ⏳ |
 
 ---
 
-## 🚀 Task 1: Web Application Security Testing
+## Task 1: Web Application Security Testing
 
 **Objective:** Perform a vulnerability assessment on a vulnerable web application (**OWASP Juice Shop**) to identify security flaws using ethical hacking tools.
 
-### 🛠️ Tools Used
+### Tools Used
 * **Burp Suite Community Edition** (Traffic Analysis & Interception)
 * **Docker** (Hosting the local Juice Shop instance)
 * **Chromium** (Manual Testing)
@@ -30,11 +30,11 @@ I successfully identified and documented the following vulnerabilities:
 3.  **Sensitive Data Exposure:** Uncovered hidden access to the Score Board.
     * *Endpoint:* `/#/score-board`
 
-### 📄 Deliverables
+### Deliverables
 * [View Security Assessment Report (PDF)](./Task1_Security_Report.pdf)
 
 ---
 
-### 👤 Author
+###  Author
 **Rathnam S.**
 *Aspiring Cybersecurity Analyst*
